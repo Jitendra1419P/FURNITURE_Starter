@@ -6,7 +6,7 @@ A **modern, responsive furniture website starter** built with **React**, designe
 
 ## 🚀 Live Demo
 
-🔗 **Website:** [https://furniturestarter-3t0mobkl4-jitendra1419ps-projects.vercel.app/](https://furniturestarter-3t0mobkl4-jitendra1419ps-projects.vercel.app/)
+🔗 **Website:** [https://furniturestarter-3t0mobkl4-jitendra1419ps-projects.vercel.app/](https://furniturestarter-q9iv29v67-jitendra1419ps-projects.vercel.app/)
 
 > Deployed using **Vercel** for fast performance and easy CI/CD.
 
